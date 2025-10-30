@@ -1,0 +1,70 @@
+{
+    "sports_indian": [
+        "Virat Kohli", "Rohit Sharma", "MS Dhoni", "Sachin Tendulkar", "Rahul Dravid",
+        "Kapil Dev", "Sunil Gavaskar", "Yuvraj Singh", "Hardik Pandya", "Jasprit Bumrah",
+        "PV Sindhu", "Saina Nehwal", "Kidambi Srikanth", "Lakshya Sen", "Chirag Shetty",
+        "Satwiksairaj Rankireddy", "Neeraj Chopra", "Milkha Singh", "PT Usha", "Hima Das",
+        "Dutee Chand", "Mary Kom", "Lovlina Borgohain", "Vijender Singh", "Bajrang Punia",
+        "Sushil Kumar", "Sakshi Malik", "Vinesh Phogat", "Major Dhyan Chand", "PR Sreejesh",
+        "Rani Rampal", "Manpreet Singh", "Sunil Chhetri", "Bhaichung Bhutia", "Gurpreet Singh Sandhu",
+        "Sania Mirza", "Leander Paes", "Mahesh Bhupathi", "Rohan Bopanna", "Manika Batra",
+        "Sharath Kamal Achanta", "Abhinav Bindra", "Gagan Narang", "Anju Bobby George", "Deepika Kumari",
+        "Dipa Karmakar", "Mirabai Chanu", "Ritu Phogat", "Deepak Punia", "Bhavani Devi"
+    ],
+
+    "sports_foreign": [
+        "Ben Stokes", "Joe Root", "Kane Williamson", "Steve Smith", "Pat Cummins", "David Warner",
+        "AB de Villiers", "Hashim Amla", "Chris Gayle", "Jacques Kallis", "Lionel Messi",
+        "Cristiano Ronaldo", "Neymar Jr", "Kylian Mbappé", "Erling Haaland", "Luka Modric",
+        "Robert Lewandowski", "Mohamed Salah", "Kevin De Bruyne", "Sergio Ramos", "Roger Federer",
+        "Rafael Nadal", "Novak Djokovic", "Serena Williams", "Venus Williams", "Naomi Osaka",
+        "Carlos Alcaraz", "Stefanos Tsitsipas", "Andy Murray", "Dominic Thiem", "Usain Bolt",
+        "Carl Lewis", "Florence Griffith Joyner", "Shelly-Ann Fraser-Pryce", "Yohan Blake",
+        "Mo Farah", "Asafa Powell", "Michael Johnson", "Allyson Felix", "Wayde van Niekerk",
+        "Michael Phelps", "Simone Biles", "LeBron James", "Kobe Bryant", "Tiger Woods",
+        "Lewis Hamilton", "Tom Brady", "Conor McGregor", "Mike Tyson", "Ronda Rousey"
+    ],
+
+    "actors_bollywood": [
+        "Shah Rukh Khan", "Salman Khan", "Aamir Khan", "Akshay Kumar", "Hrithik Roshan",
+        "Ranbir Kapoor", "Ranveer Singh", "Ajay Devgn", "Saif Ali Khan", "Varun Dhawan",
+        "Sidharth Malhotra", "Tiger Shroff", "Vicky Kaushal", "Ayushmann Khurrana", "Rajkummar Rao",
+        "Kartik Aaryan", "Arjun Kapoor", "Shahid Kapoor", "John Abraham", "Emraan Hashmi",
+        "Nawazuddin Siddiqui", "Pankaj Tripathi", "Manoj Bajpayee", "Irrfan Khan", "Sunny Deol",
+        "Bobby Deol", "Abhishek Bachchan", "Amitabh Bachchan", "Anil Kapoor", "Riteish Deshmukh",
+        "Akshaye Khanna", "Sanjay Dutt", "Aditya Roy Kapur", "Kunal Kemmu", "Farhan Akhtar",
+        "Arshad Warsi", "Randeep Hooda", "Abhay Deol", "Jackie Shroff", "Naseeruddin Shah",
+        "Alia Bhatt", "Deepika Padukone", "Katrina Kaif", "Priyanka Chopra", "Kareena Kapoor Khan",
+        "Shraddha Kapoor", "Kiara Advani", "Anushka Sharma", "Disha Patani", "Janhvi Kapoor"
+    ],
+
+    "actors_hollywood": [
+        "Leonardo DiCaprio", "Brad Pitt", "Johnny Depp", "Tom Cruise", "Robert Downey Jr.",
+        "Chris Evans", "Chris Hemsworth", "Scarlett Johansson", "Tom Hanks", "Will Smith",
+        "Matt Damon", "Ben Affleck", "Keanu Reeves", "Christian Bale", "Denzel Washington",
+        "Hugh Jackman", "Ryan Reynolds", "Ryan Gosling", "Mark Ruffalo", "Samuel L. Jackson",
+        "Harrison Ford", "George Clooney", "Edward Norton", "Jake Gyllenhaal", "Joaquin Phoenix",
+        "Adam Driver", "Jason Momoa", "Henry Cavill", "Matt Bomer", "Tom Hardy", "Anne Hathaway",
+        "Emma Stone", "Jennifer Lawrence", "Natalie Portman", "Angelina Jolie", "Margot Robbie",
+        "Charlize Theron", "Sandra Bullock", "Julia Roberts", "Nicole Kidman", "Emily Blunt",
+        "Meryl Streep", "Jessica Chastain", "Gal Gadot", "Amy Adams", "Zendaya", "Florence Pugh",
+        "Millie Bobby Brown", "Viola Davis", "Robert Pattinson", "Morgan Freeman"
+    ],
+
+    "politics_indian": [
+        "Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal", "Mamata Banerjee",
+        "Yogi Adityanath", "Sonia Gandhi", "Manmohan Singh", "Lalu Prasad Yadav", "Ravi Shankar Prasad",
+        "Smriti Irani", "Rajnath Singh", "Piyush Goyal", "Kangana Ranaut", "Shashi Tharoor",
+        "Digvijaya Singh", "Nitin Gadkari", "Devendra Fadnavis", "K. Chandrashekar Rao",
+        "Nitish Kumar", "Akhilesh Yadav", "Mayawati", "Tejashwi Yadav", "Asaduddin Owaisi",
+        "Subramanian Swamy"
+    ],
+
+    "politics_foreign": [
+        "Donald Trump", "Joe Biden", "Barack Obama", "George W. Bush", "Hillary Clinton",
+        "Bill Clinton", "Kamala Harris", "Bernie Sanders", "Vladimir Putin", "Volodymyr Zelenskyy",
+        "Boris Johnson", "Rishi Sunak", "Emmanuel Macron", "Angela Merkel", "Justin Trudeau",
+        "Kim Jong Un", "Xi Jinping", "Jair Bolsonaro", "Luiz Inacio Lula da Silva", "Recep Tayyip Erdogan",
+        "Benjamin Netanyahu", "Marine Le Pen", "Nicolas Sarkozy", "Silvio Berlusconi", "Elizabeth Truss"
+    ]
+}
